@@ -60,7 +60,7 @@ This feature opens up a whole world of similar workflows. I imagine e-mail templ
 At this point in development, I already noticed that the lack of tests is very problematic. I already added a devmode that works as a dry-run.  
 But I still had to rely on real-life tests with my personal account and during my personal usage. The functionality was still very limited and so were the test cases, but I clearly noticed the issue of missing tests.
 
-Even today the test coverage is not very high. That's why Taskbutler still fails very early and hard in case of any malfunction. Since Taskbutler modifies important user-data, it hopefully rather crashes completely than corrupts any Todoist data.
+Even today the test coverage is not very high. That's why Taskbutler still fails very early and hard in case of any malfunction. Since Taskbutler modifies important user-data, it hopefully rather exits completely than corrupts any Todoist data.
 
 ## [Log rotation](https://github.com/6uhrmittag/taskbutler/issues/25)
 
