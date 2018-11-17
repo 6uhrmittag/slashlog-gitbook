@@ -1,10 +1,3 @@
----
-description: >-
-  Documenting your journey versus creating an image of yourself is the
-  difference between saying “You should…” versus “my intuition says…”. Get it? -
-  Gary Vaynerchuk
----
-
 # Document, Don't create
 
 Documenting the process while creating something is important, but often neglected. This is the attempt of creating a living documentation for and about project's I started, I'm working on and that I planed.

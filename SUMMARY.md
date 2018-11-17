@@ -11,7 +11,6 @@
 * [Intro](bashblog/intro.md)
 * [Naming your baby](bashblog/naming.md)
 
-
 ## Demo
 
 * [Changelog Template](demo/untitled.md)
