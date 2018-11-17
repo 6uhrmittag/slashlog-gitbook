@@ -51,7 +51,7 @@ The implementation is wild but super simple. It makes use of Dropbox URLs to Off
 
 Once one is logged into Dropbox and clicks on a link like this, the corresponding file will open the web version of Microsoft Office. Since Todoist task-texts are clickable as soon as they contain a link, the integration is almost seamless. To make use of this feature Taskbutler will also upload a specified file template to Dropbox when the feature label is found.
 
-My main goal is to make it super easy to write a simple letter in case of e.g. cancelling a contract or similar things that require a default template. It saves a ton of time to select and edit a template once and using it with this feature.
+My main goal is to make it super easy to write a simple letter in case of e.g. cancelling a contract or similar things that require a default template. It saves a lot of time and makes it much easier to start the task.
 
 This feature opens up a whole world of similar workflows. I imagine e-mail templates or even integration of online fax-services that sends the finished letter once it's marked as done.
 
