@@ -21,9 +21,9 @@ This is quite understandable, but since this was my first time touching this top
 
 ## [Create dropbox paper and link to task](https://github.com/6uhrmittag/taskbutler/issues/20)
 
-After successfully releasing the progress bar-feature, I dug a bit deeper into the universe of 3rd party APIs. Taskbutler motivated me to add more functionalities to the now multi-purpose task butler. Finding Dropbox paper was pure luck. After using and disliking [Quip](https://quip.com/), I had high hopes for dropbox paper. I actually used it do brainstorm the dropbox paper functionality since it always bugged my how limited the Todoist comment-functionality is.  
+After successfully releasing the progress bar-feature, I dug a bit deeper into the universe of 3rd party APIs. Taskbutler motivated me to add more functionalities to the now multi-purpose task butler. Finding [Dropbox Paper](https://www.dropbox.com/en/paper) was pure luck. After using and disliking [Quip](https://quip.com/), I had high hopes for Dropbox Paper. I actually used it do brainstorm the Dropbox Paper functionality since it always bugged my how limited the Todoist comment-functionality is.  
 A few years ago I tried [Atlassian's Confluence](https://confluence.atlassian.com/) + Jira for personal task tracking and knowledge management. It turned out pretty well, but it's just a tiny bit too expensive and produces a lot of overhead. It's also lacking a usable todo mobile app. Anyway...  
-Dropbox paper turned out to be a great tool to enhance normal tasks. After finding the official [Python SDK for Dropbox API v2](https://github.com/dropbox/dropbox-sdk-python) it was pretty easy to implement the basic functionality of creating and linking papers. Unfortunately the paper-API is still in development and I had to work around some limitations such as searching for papers.
+Dropbox Paper turned out to be a great tool to enhance normal tasks. After finding the official [Python SDK for Dropbox API v2](https://github.com/dropbox/dropbox-sdk-python) it was pretty easy to implement the basic functionality of creating and linking papers. Unfortunately the paper-API is still in development and I had to work around some limitations such as searching for papers.
 
 The flow is pretty straightforward: 
 
