@@ -21,5 +21,7 @@ Tab 2
 {% endtab %}
 {% endtabs %}
 
-
+| Tabelle 1 | Tabelle 2 |
+| :--- | :--- |
+| Content 1 | Content2 |
 
