@@ -1,5 +1,5 @@
 ---
-description: 'Milestone retrospective of a taskbutler milestone #1'
+description: 'Milestone retrospective of a Taskbutler milestone #1'
 ---
 
 # Milestone: Dropbox Feature - First release
@@ -10,7 +10,7 @@ As discussed in [naming your baby](../bashblog/naming.md), naming a tool is a gr
 
 > You can't name your baby X
 
-At this point, I already knew that taskbutler will be a somewhat serious project and so I noticed an important part in the [Todoist API documentation](https://developer.todoist.com/sync/v7/#brand-usage):
+At this point, I already knew that Taskbutler will be a somewhat serious project and so I noticed an important part in the [Todoist API documentation](https://developer.todoist.com/sync/v7/#brand-usage):
 
 > In addition, please take note of the following:
 >
@@ -58,7 +58,7 @@ This feature opens up a whole world of similar workflows. I imagine e-mail templ
 At this point in development, I already noticed that the lack of tests is very problematic. I already added a devmode that works as a dry-run.   
 But I still had to rely on real-life tests with my personal account and during my personal usage. The functionality was still very limited and so were the test cases, but I clearly noticed the issue of missing tests.
 
-Even today the test coverage is not very high. That's why taskbutler still fails very early and hard in case of any malfunction. Since taskbutler modifies important user-data, it hopefully rather crashes completely than corrupts any Todoist data.
+Even today the test coverage is not very high. That's why Taskbutler still fails very early and hard in case of any malfunction. Since Taskbutler modifies important user-data, it hopefully rather crashes completely than corrupts any Todoist data.
 
 ## [Log rotation](https://github.com/6uhrmittag/taskbutler/issues/25)
 
