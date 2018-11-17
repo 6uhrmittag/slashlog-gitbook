@@ -1,5 +1,5 @@
 ---
-description: 'In-depth discussion of a taskbutler milestone #3'
+description: 'In-depth discussion of taskbutler milestone #3'
 ---
 
 # Milestone: Github Feature - Advanced Features

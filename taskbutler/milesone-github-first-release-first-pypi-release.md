@@ -1,14 +1,14 @@
 ---
-description: 'In-depth discussion of a taskbutler milestone #4'
+description: 'Milestone retrospective of a taskbutler milestone #4'
 ---
 
 # Milesone: Github First release/first pypi release
 
-##  [Publish a PyPI package](https://github.com/6uhrmittag/taskbutler/issues/16)
+## [Publish a PyPI package](https://github.com/6uhrmittag/taskbutler/issues/16)
 
-##  [Convert markdown &gt; RST](https://github.com/6uhrmittag/taskbutler/issues/89)
+## [Convert markdown &gt; RST](https://github.com/6uhrmittag/taskbutler/issues/89)
 
-##  [Test pip install](https://github.com/6uhrmittag/taskbutler/issues/90)
+## [Test pip install](https://github.com/6uhrmittag/taskbutler/issues/90)
 
-##  [Test release workflow via travis](https://github.com/6uhrmittag/taskbutler/issues/91)
+## [Test release workflow via travis](https://github.com/6uhrmittag/taskbutler/issues/91)
 
