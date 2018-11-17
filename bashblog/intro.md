@@ -12,3 +12,5 @@ By storing whole sentences it becomes searchable and even indexable by Google.
 
 bashblog started as a simple script, but by [publishing it to GitHub](https://github.com/6uhrmittag/bashblog), it thought me much more than scripting.
 
+![Bashblog screenshot](../.gitbook/assets/demo.png)
+

@@ -10,3 +10,4 @@
 
 * [Intro](bashblog/intro.md)
 * [Naming your baby](bashblog/naming.md)
+
