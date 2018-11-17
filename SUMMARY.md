@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Documentation](README.md)
-* [Untitled](untitled.md)
+* [Document, Don't create](README.md)
 
 ## Taskbutler
 
@@ -13,9 +12,9 @@
 
 ## Demo
 
-* [Changelog Template](demo-1/untitled.md)
-* [Guide Template](demo-1/guide-template.md)
-* [API Template](demo-1/api-template.md)
-* [FAQ Template](demo-1/faq-template.md)
-* [Random Template](demo-1/random-template.md)
+* [Changelog Template](demo/untitled.md)
+* [Guide Template](demo/guide-template.md)
+* [API Template](demo/api-template.md)
+* [FAQ Template](demo/faq-template.md)
+* [Random Template](demo/random-template.md)
 
