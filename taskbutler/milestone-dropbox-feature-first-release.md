@@ -2,7 +2,7 @@
 description: 'Milestone retrospective of Taskbutler milestone #1'
 ---
 
-# Milestone: Dropbox Feature - First release
+# [Milestone: Dropbox Feature - First release](https://github.com/6uhrmittag/taskbutler/milestone/1)
 
 ## [Rebranding](https://github.com/6uhrmittag/taskbutler/issues/14)
 
