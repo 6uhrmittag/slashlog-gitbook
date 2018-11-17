@@ -1,7 +1,3 @@
----
-description: Why you should name your tools
----
-
 # Naming your baby
 
 Ownership is important when it comes to responsibility and motivation. By naming a tool, it becomes a thing. A thing that can be loved.

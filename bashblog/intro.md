@@ -1,7 +1,3 @@
----
-description: Introducing bashblog
----
-
 # Intro
 
 bashblog is a static blog generator, link list and knowledge base. It solves a simple problem: How to preserve the thought or a summary of an article or video.
