@@ -1,5 +1,5 @@
 ---
-description: 'Milestone retrospective of a Taskbutler milestone #1'
+description: 'Milestone retrospective of Taskbutler milestone #1'
 ---
 
 # Milestone: Dropbox Feature - First release

@@ -1,5 +1,5 @@
 ---
-description: 'Milestone retrospective of a taskbutler milestone #4'
+description: 'Milestone retrospective of taskbutler milestone #4'
 ---
 
 # Milesone: Github First release/first pypi release
