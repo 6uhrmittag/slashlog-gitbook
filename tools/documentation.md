@@ -16,7 +16,7 @@ Confluence is probably the _go to_ wiki for a lot of people. It would be my no. 
 
 ### [Gitbook](https://gitbook.com)
 
-\#todo
+#todo
 
 ### [notion](https://www.notion.so/)
 
@@ -28,9 +28,13 @@ Bookstack is a new wiki-like tool with a lot of potential. It just works and loo
 
 ## knowledge management&note taking
 
-### [slashlog](https://github.com/6uhrmittag/bashblog)
+### [bashblog](https://github.com/6uhrmittag/bashblog)
+
+#todo
 
 ### [Dropbox paper](https://www.dropbox.com/en/paper)
+
+#todo
 
 ### [Quiver](http://happenapps.com/)
 
