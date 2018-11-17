@@ -2,7 +2,9 @@
 description: 'Milestone retrospective of Taskbutler milestone #1'
 ---
 
-# [Milestone: Dropbox Feature - First release](https://github.com/6uhrmittag/taskbutler/milestone/1)
+# Milestone: Dropbox Feature - First release
+
+View Milestone on Github: [Milestone: Dropbox Feature - First release](milestone-dropbox-feature-first-release.md)
 
 ## [Rebranding](https://github.com/6uhrmittag/taskbutler/issues/14)
 
@@ -25,7 +27,7 @@ After successfully releasing the progress bar-feature, I dug a bit deeper into t
 A few years ago I tried [Atlassian's Confluence](https://confluence.atlassian.com/) + Jira for personal task tracking and knowledge management. It turned out pretty well, but it's just a tiny bit too expensive and produces a lot of overhead. It's also lacking a usable todo mobile app. Anyway...  
 Dropbox Paper turned out to be a great tool to enhance normal tasks. After finding the official [Python SDK for Dropbox API v2](https://github.com/dropbox/dropbox-sdk-python) it was pretty easy to implement the basic functionality of creating and linking papers. Unfortunately the paper-API is still in development and I had to work around some limitations such as searching for papers.
 
-The flow is pretty straightforward: 
+The flow is pretty straightforward:
 
 1. The user creates a folder and an initial paper
 2. Taskbutler searches for a task with a specific label name
@@ -43,7 +45,7 @@ Additionally, I stumbled on two weird issues:
 ## [Upload template to Dropbox and link task to Office365](https://github.com/6uhrmittag/taskbutler/issues/19)
 
 This feature is pretty wild! It makes use of the Microsoft Office 365 integration in Dropbox.  
-Once Office 365 is connected to Dropbox, it is possible to open Office documents directly from the web-view of Dropbox. The file will then open right inside office.com\(a web version of Word, Excel, Powerpoint\). 
+Once Office 365 is connected to Dropbox, it is possible to open Office documents directly from the web-view of Dropbox. The file will then open right inside office.com\(a web version of Word, Excel, Powerpoint\).
 
 The implementation is wild but super simple. It makes use of Dropbox URLs to Office 365 always following the same schema: [https://www.dropbox.com/ow/msft/edit/home/](https://www.dropbox.com/ow/msft/edit/home/)&lt;$FOLDER&gt;/&lt;$FILENAME&gt;
 
@@ -55,7 +57,7 @@ This feature opens up a whole world of similar workflows. I imagine e-mail templ
 
 ## [Test in production](https://github.com/6uhrmittag/taskbutler/issues/27)
 
-At this point in development, I already noticed that the lack of tests is very problematic. I already added a devmode that works as a dry-run.   
+At this point in development, I already noticed that the lack of tests is very problematic. I already added a devmode that works as a dry-run.  
 But I still had to rely on real-life tests with my personal account and during my personal usage. The functionality was still very limited and so were the test cases, but I clearly noticed the issue of missing tests.
 
 Even today the test coverage is not very high. That's why Taskbutler still fails very early and hard in case of any malfunction. Since Taskbutler modifies important user-data, it hopefully rather crashes completely than corrupts any Todoist data.
