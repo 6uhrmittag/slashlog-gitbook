@@ -1,4 +1,22 @@
-# Naming your baby
+# Bashblog
+
+## Intro
+
+bashblog is a static blog generator, link list and knowledge base. It solves a simple problem: How to preserve the thought or a summary of an article or video.
+
+bashblog receives links and videos via email and stores a text connected to it. This way an article and the gained knowledge keeps its value.
+
+{% hint style="info" %}
+_Share via mail_ is available on every platform, in every app and tool. E-mail is lightweight and works everywhere, even in the subway.
+{% endhint %}
+
+By storing whole sentences it becomes searchable and even indexable by Google.
+
+bashblog started as a simple script, but by [publishing it to GitHub](https://github.com/6uhrmittag/bashblog), it thought me much more than scripting.
+
+![Bashblog screenshot](../.gitbook/assets/demo.png)
+
+## Naming your baby
 
 Ownership is important when it comes to responsibility and motivation. By naming a tool, it becomes a thing. A thing that can be loved.
 

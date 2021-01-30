@@ -2,17 +2,14 @@
 
 * [Document, Don't create](README.md)
 
-## Taskbutler
+## learning
 
-* [Intro](taskbutler/intro.md)
-* [Milestone: Dropbox Feature - First release](taskbutler/milestone-dropbox-feature-first-release.md)
+---
 
-## bashblog
+* [Notetaking](notetaking.md)
 
-* [Intro](bashblog/intro.md)
-* [Naming your baby](bashblog/naming.md)
+## Projects
 
-## tools
-
-* [Wiki/KB](tools/documentation.md)
+* [Taskbutler](projects/milestone-dropbox-feature-first-release.md)
+* [Bashblog](projects/intro.md)
 
