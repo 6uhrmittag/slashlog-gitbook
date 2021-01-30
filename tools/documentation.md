@@ -52,5 +52,6 @@ Leptop is a local tool to manage [Github Gists](https://gist.github.com/). It sy
 
 ### to review
 
-* [https://www.cacher.io/](https://www.cacher.io/)
+* [https://www.cacher.io/](https://www.cacher.io/)+
+* gitbook.com
 
